@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public enum EnemyAgringStates
+public enum  AgringStates
 {
    Escape,
    Targeting,

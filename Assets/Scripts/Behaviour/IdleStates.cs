@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public enum EnemyIdleStates
+public enum IdleStates
 {
    Standing,
    Patrol,
